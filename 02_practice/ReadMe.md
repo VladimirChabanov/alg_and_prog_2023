@@ -8,6 +8,15 @@
 
 <br>
 
+- **Практика для ЗФО №1: https://contest.yandex.ru/contest/53548/problems/**
+
+- **Практика для ЗФО №2: https://contest.yandex.ru/contest/53549/problems/**
+
+- **Практика для ЗФО №3: https://contest.yandex.ru/contest/53550/problems/**
+
+<br>
+
 Чтобы получить доступ к практическим и самостоятельным заданиям заполните [форму](https://docs.google.com/forms/d/e/1FAIpQLSeMeLaCDmoZLlHI1ROi0F5p2QcMc_Z8fQ-kqXxd0_T57AuuJQ/viewform?usp=sf_link).
 
 Решения практических заданий нужно дублировать в своём репозитории на [github.com](https://github.com/). Структура репозитория должна быть организована как описано [здесь](./repo_structure.md).
+
