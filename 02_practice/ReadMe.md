@@ -6,6 +6,8 @@
 
 - **Практика №3: https://contest.yandex.ru/contest/53504/problems/**
 
+- **Практика №4: https://contest.yandex.ru/contest/54625/problems/**
+
 <br>
 
 - **Практика для ЗФО №1: https://contest.yandex.ru/contest/53548/problems/**
