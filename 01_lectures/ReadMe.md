@@ -6,3 +6,4 @@
 
 **Лекция 4. Структуры. Перечисления. Множества. Словари** | **cpp: [[pdf]](./lecture_04/presentation_cpp.pdf) [[pptx]](./lecture_04/presentation_cpp.pptx)** | **go: [[pdf]](./lecture_04/presentation_go.pdf) [[pptx]](./lecture_04/presentation_go.pptx)**
 
+**Лекция 9. Введение в ООП** | **[[mindmap](https://xmind.works/share/fqFlxnKB)]**
