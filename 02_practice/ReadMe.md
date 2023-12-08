@@ -14,6 +14,8 @@
 
 - **Практика №7: https://contest.yandex.ru/contest/56824/problems/**
 
+- **Практика №8: https://contest.yandex.ru/contest/57296/problems/**
+
 <br>
 
 - **Практика для ЗФО №1: https://contest.yandex.ru/contest/53548/problems/**
