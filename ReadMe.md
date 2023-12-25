@@ -9,5 +9,5 @@
 - [Лекционные занятия](./01_lectures/ReadMe.md)
 - [Практические занятия](./02_practice/ReadMe.md)
 - [Групповые проекты](./03_group_work/ReadMe.md)
-- [Материалы к экзамену](./04_exam/ReadMe.md)
+- [Экзамен и оценивание](./04_exam/ReadMe.md)
 - [Рекомендуемые источники](./05_sources/ReadMe.md)
