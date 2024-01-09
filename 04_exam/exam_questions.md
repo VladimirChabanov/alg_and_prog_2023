@@ -8,7 +8,7 @@
 ## C++
 
 1. [Программа на языке С++](https://xmind.ai/bAgNVy36?sheet-id=cd286f5b-f0a9-4a7a-98fa-f629d92a4a1f);
-2. [Переменные в языке С++](https://xmind.ai/bAgNVy36?sheet-id=c6609bc1-13ff-4afb-8053-12ec0901f8cb);
+2. [Переменные и константы в языке С++](https://xmind.ai/bAgNVy36?sheet-id=c6609bc1-13ff-4afb-8053-12ec0901f8cb);
 3. [Типы данных в языке С++](https://xmind.ai/bAgNVy36?sheet-id=eeaff7f8-e8c4-44e7-b2a9-1b3c2002f1c2);
 4. [Указатели в языке С++](https://xmind.ai/bAgNVy36?sheet-id=1802f0e2-abe8-4034-8d7d-929861110f2a);
 5. [Поток исполнения программы на языке С++](https://xmind.ai/bAgNVy36?sheet-id=88095d68-00bc-48d6-92d9-50e6c8aadeea);
@@ -23,7 +23,7 @@
 ## Go
 
 1. [Программа на языке Go](https://xmind.ai/bAgNVy36?sheet-id=f0ff3044-3cd5-47d3-b0cf-dc82bf9852e0);
-2. [Переменные в языке Go](https://xmind.ai/bAgNVy36?sheet-id=a11636da-fde2-419c-9530-c29497c20ba5);
+2. [Переменные и константы в языке Go](https://xmind.ai/bAgNVy36?sheet-id=a11636da-fde2-419c-9530-c29497c20ba5);
 3. [Типы данных в языке Go](https://xmind.ai/bAgNVy36?sheet-id=6fc25044-49ac-469a-b67d-0b57693abe26);
 4. [Поток исполнения программы на языке Go](https://xmind.ai/bAgNVy36?sheet-id=6d6d312c-bdf6-4946-884f-80222cb3be8a);
 5. [Функции в языке Go](https://xmind.ai/bAgNVy36?sheet-id=b80cfba3-477b-48b6-b8d1-bae93d0a466f);
